@@ -2,7 +2,6 @@ import 'package:bloc/bloc.dart';
 import 'package:bloc_tutorial/data/model/weather.dart';
 import 'package:bloc_tutorial/data/weatherRepository.dart';
 import 'package:bloc_tutorial/exceptions/network_exception.dart';
-import 'package:flutter/semantics.dart';
 import 'package:meta/meta.dart';
 
 part 'weather_state.dart';
